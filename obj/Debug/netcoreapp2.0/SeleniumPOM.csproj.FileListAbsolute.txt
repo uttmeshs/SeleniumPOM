@@ -1,0 +1,14 @@
+/Volumes/Data/AutomationPOC/SeleniumPOM/SeleniumPOM/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Volumes/Data/AutomationPOC/SeleniumPOM/SeleniumPOM/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Volumes/Data/AutomationPOC/SeleniumPOM/SeleniumPOM/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Volumes/Data/AutomationPOC/SeleniumPOM/SeleniumPOM/bin/Debug/netcoreapp2.0/SeleniumPOM.deps.json
+/Volumes/Data/AutomationPOC/SeleniumPOM/SeleniumPOM/bin/Debug/netcoreapp2.0/SeleniumPOM.runtimeconfig.json
+/Volumes/Data/AutomationPOC/SeleniumPOM/SeleniumPOM/bin/Debug/netcoreapp2.0/SeleniumPOM.runtimeconfig.dev.json
+/Volumes/Data/AutomationPOC/SeleniumPOM/SeleniumPOM/bin/Debug/netcoreapp2.0/SeleniumPOM.dll
+/Volumes/Data/AutomationPOC/SeleniumPOM/SeleniumPOM/bin/Debug/netcoreapp2.0/SeleniumPOM.pdb
+/Volumes/Data/AutomationPOC/SeleniumPOM/SeleniumPOM/obj/Debug/netcoreapp2.0/SeleniumPOM.csprojResolveAssemblyReference.cache
+/Volumes/Data/AutomationPOC/SeleniumPOM/SeleniumPOM/obj/Debug/netcoreapp2.0/SeleniumPOM.csproj.CoreCompileInputs.cache
+/Volumes/Data/AutomationPOC/SeleniumPOM/SeleniumPOM/obj/Debug/netcoreapp2.0/SeleniumPOM.AssemblyInfoInputs.cache
+/Volumes/Data/AutomationPOC/SeleniumPOM/SeleniumPOM/obj/Debug/netcoreapp2.0/SeleniumPOM.AssemblyInfo.cs
+/Volumes/Data/AutomationPOC/SeleniumPOM/SeleniumPOM/obj/Debug/netcoreapp2.0/SeleniumPOM.dll
+/Volumes/Data/AutomationPOC/SeleniumPOM/SeleniumPOM/obj/Debug/netcoreapp2.0/SeleniumPOM.pdb
